@@ -282,7 +282,7 @@ void help()
 	print("\ngcd       : Computes the grand common divider of n given numbers");
 	print("\nlogout    : Quits the current shell");
 	print("\nbcolor    : Changes the colors of the terminal");
-	print("\nver	   : Version of Kernel")
+	print("\nver	   : Version of Kernel");
 	
 	print("\n\n");
 }
